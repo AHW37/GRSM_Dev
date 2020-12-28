@@ -1,0 +1,1 @@
+call "%~dp0Pkg\WindowsNoEditor\GRSM.exe" 47.102.152.162 -ResX=1280 -ResY=720 -Windowed
